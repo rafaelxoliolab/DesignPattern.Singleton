@@ -1,4 +1,4 @@
-# DesignPattern.Singleton
+# Singleton Pattern C# Example
 Simple example of the Singleton Pattern implementation with C#
 
 ## Definition
